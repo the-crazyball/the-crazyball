@@ -16,11 +16,13 @@ I work on many different projects, closed and open source. Some creations are mi
 
 I usually learn the hard way by doing everything from scratch. I use **Javascript** and **Node.js** for most of my projects with a **Mongo** database. I also have a variety of tools and languages that I've learned to use throughout the years, **PHP**, **.NET**, **Cold Fusion**, **Classic ASP**, **Perl**, **Python**, you name it. **Photoshop** and **Illustrator** are my go to image editors.
 
+### Most Used Languages ⚡
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact me 🤝
 
-Via **[Email](http://mailto:me@torsin.dev)**.
-
-![](https://bit.ly/3jXYBJK)
+Via **[Email](http://mailto:me@torsin.dev)**. ![](https://bit.ly/3jXYBJK)
 
 [<img src="https://raw.githubusercontent.com/the-crazyball/the-crazyball/main/profile-views.svg" height="20"/>](https://github.com/the-crazyball)
 
