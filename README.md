@@ -22,7 +22,7 @@ I usually learn the hard way by doing everything from scratch. I use **Javascrip
 
 ### Contact me 🤝
 
-Via **[Email](http://mailto:me@torsin.dev)**. ![](https://bit.ly/3jXYBJK)
+Via **[Email](mailto:me@torsin.dev)**. ![](https://bit.ly/3jXYBJK)
 
 [<img src="https://raw.githubusercontent.com/the-crazyball/the-crazyball/main/profile-views.svg" height="20"/>](https://github.com/the-crazyball)
 
