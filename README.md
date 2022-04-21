@@ -22,6 +22,8 @@ Via **[Email](http://mailto:me@torsin.dev)**.
 
 ![](https://bit.ly/3jXYBJK)
 
+[<img src="https://raw.githubusercontent.com/the-crazyball/the-crazyball/main/profile-views.svg" height="20"/>](https://github.com/the-crazyball)
+
 <!--
 **the-crazyball/the-crazyball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
