@@ -18,7 +18,7 @@ I usually learn the hard way by doing everything from scratch. I use **Javascrip
 
 ### Most Used Languages ⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-crazyball&layout=compact)](https://github.com/the-crazyball)
 
 ### Contact me 🤝
 
