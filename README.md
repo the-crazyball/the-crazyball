@@ -14,13 +14,12 @@ I work on many different projects, closed and open source. Some creations are mi
 
 ### Skills & Tools 🖱️
 
-I usually learn the hard way by doing everything from scratch. I use **Javascript** and **Node.js** for most of my projects with a **Mongo** database. I also have a variety of tools and languages that I've learned to use throughout the years, **PHP**, **.NET**, **Cold Fusion**, **Classic ASP**, **Perl**, **Python**, you name it. **Photoshop** and **Illustrator** are my go to image editors.
+I usually learn the hard way by doing everything from scratch. I use **Javascript** and **Node.js** for most of my projects with a **Mongo** database. I also have a variety of tools and languages that I've learned to use throughout the years, **PHP**, **.NET**, **Cold Fusion**, **Classic ASP**, **Perl**, **Python**, you name it. **Photoshop** and **Illustrator** are my go to image editors. ![]([https://bit.ly/3MoRAh4])
 
 ### Contact me 🤝
 
 Via **[Email](http://mailto:me@torsin.dev)**.
 
-![]([https://bit.ly/3MoRAh4])
 
 <!--
 **the-crazyball/the-crazyball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
