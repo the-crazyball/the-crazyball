@@ -31,7 +31,7 @@ Via **[Email](mailto:me@torsin.dev)**.
 </a>
 
 <div align="center">  
-  <p>![](https://komarev.com/ghpvc/?username=the-crazyball&style=for-the-badge)</p>
+![](https://komarev.com/ghpvc/?username=the-crazyball&style=for-the-badge)
 </div> 
 
 
