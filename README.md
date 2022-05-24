@@ -22,9 +22,15 @@ I usually learn the hard way by doing everything from scratch. I use **Javascrip
 
 ### Contact me 🤝
 
-Via **[Email](mailto:me@torsin.dev)**. ![](https://bit.ly/3jXYBJK)
+Via **[Email](mailto:me@torsin.dev)**.
 
-[<img src="https://raw.githubusercontent.com/the-crazyball/the-crazyball/main/profile-views.svg" height="20"/>](https://github.com/the-crazyball)
+### Connect with me 🌱
+
+<a href="https://dev.to/torsin" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=the-crazyball&style=for-the-badge)
 
 <!--
 **the-crazyball/the-crazyball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
