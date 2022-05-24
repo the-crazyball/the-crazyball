@@ -30,8 +30,8 @@ Via **[Email](mailto:me@torsin.dev)**.
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 
-<div align="center">  
-![](https://komarev.com/ghpvc/?username=the-crazyball&style=for-the-badge)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-crazyball&style=for-the-badge" align="center" />
 </div> 
 
 
