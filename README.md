@@ -16,7 +16,7 @@ I usually learn the hard way by doing everything from scratch. I use **Javascrip
 
 ### Contact me 🤝
 
-Via **[Email](mailto:me@torsin.dev)**.
+Via **[Email](mailto:me@torsin.dev)** or join my [Discord server](https://discord.gg/N6GBMkYqz)
 
 ### Connect with me 🌱
 
