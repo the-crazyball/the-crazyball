@@ -6,7 +6,7 @@ Welcome to my development page!
 
 I work on many different projects, closed and open source. Some creations are mine and some others I contribute.
 
-* **[Anomalous Space](https://github.com/the-crazyball/anomalousspace)**, a Sci-Fi game Discord Bot set it space where you explore, mine and gain resources to get back home.(https://discord.gg/hUw2VmtzhX) for more information.
+* **[Anomalous Space](https://github.com/the-crazyball/anomalousspace)**, a Sci-Fi game Discord Bot set it space where you explore, mine and gain resources to get back home.
 * **[IdleLands-automation](https://github.com/the-crazyball/idleLands-automation)**, a cool helper script to play [IdleLands](https://play.idle.land/). I created the helper script initially and now it's maintained by [Marno](https://github.com/marnovandermaas).
 * **[Elvarion](https://www.elvarion.com)**, closed source HTML5 2D MMORPG. Still working on this one when I have time.
 * Plenty of other projects that are private, and sworn to secrecy. ;)
